@@ -1,4 +1,4 @@
-# Communication-Network-Final-Project
+# Communication-Network
 The project is divided into 3 parts:<br>
 * Part 1 - A server side and client side Python program which keeps track of sent messages and returns statistical information about how many were sent and how much was lost.<br>
 * Part 2 - A server side and client side C program, using IPv4 & IPv6 protocols.<br>
